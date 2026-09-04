@@ -1,0 +1,24 @@
+# PROXY (ipinfo etc) (21 rules)
+# --- DOMAIN ---
+DOMAIN,assets.capterra.com
+DOMAIN,cdn-4.convertexperiments.com
+DOMAIN,cdn.assets.ipinfo.io
+DOMAIN,forms.hsforms.com
+DOMAIN,ipinfo.io
+DOMAIN,p.typekit.net
+DOMAIN,perf-na1.hsforms.com
+DOMAIN,reviews-badge.capterra.com
+DOMAIN,use.typekit.net
+DOMAIN,v.ipinfo.io
+DOMAIN,v6.ipinfo.io
+DOMAIN,website-cdn.assets.ipinfo.io
+DOMAIN,www.clarity.ms
+DOMAIN,www.g2.com
+# --- DOMAIN-SUFFIX ---
+DOMAIN-SUFFIX,capterra.com
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,convertexperiments.com
+DOMAIN-SUFFIX,g2.com
+DOMAIN-SUFFIX,hsforms.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,typekit.net
