@@ -2,6 +2,29 @@
 # --- USER-AGENT ---
 USER-AGENT,%E7%BE%8E%E5%9B%A2*
 USER-AGENT,Hodor*
+# DIRECT (17 rules)
+# --- USER-AGENT ---
+USER-AGENT,%E6%B7%98%E5%AE%9D*
+USER-AGENT,*AppleWebKit/*Mobile/*MicroMessenger/*NetType/*Language/*
+# --- DOMAIN ---
+DOMAIN,static.cotticoffee.cc
+DOMAIN,cdn-product-prod.cotticoffee.com
+DOMAIN,cdn1.dcloud.net.cn
+DOMAIN,imgs.alipay.hk
+DOMAIN,raccoon.antbank.hk
+DOMAIN,antbank-cdn.marmot-cloud.com
+DOMAIN,ant-hkbank-linkd.cn-hongkong.log.aliyuncs.com
+DOMAIN,ac.alipay.com
+DOMAIN,loggw.alipay.com
+DOMAIN,custyle.amap.com
+DOMAIN,jsapi.amap.com
+DOMAIN,layout.meituan.net
+# --- DOMAIN-SUFFIX ---
+DOMAIN-SUFFIX,acs.tao.co
+DOMAIN-SUFFIX,alibabachengdun.com
+DOMAIN-SUFFIX,alipay.com.cn
+# --- DOMAIN-WILDCARD ---
+DOMAIN-WILDCARD,jsapi-data*.amap.com
 # --- DOMAIN ---
 DOMAIN,hdns.ksyun.com
 DOMAIN,m.dianping.com
