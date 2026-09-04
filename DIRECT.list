@@ -722,6 +722,19 @@ DOMAIN,m.etax.chinatax.gov.cn
 DOMAIN,8vtr5h.captcha-open.aliyuncs.com
 DOMAIN,cloudauth-device.aliyuncs.com
 DOMAIN,m.etax.chinatax.gov
+DOMAIN,aloha.walmartmobile.cn
+DOMAIN,pro.bugly.qq.com
+DOMAIN,oth.str.mdt.qq.com
+DOMAIN,mazu.m.qq.com
+DOMAIN,decoration-sams.walmartmobile.cn
+DOMAIN,cdn-decoration-sams.walmartmobile.cn
+DOMAIN,gatherer.m.qq.com
+DOMAIN,api-sams.walmartmobile.cn
+DOMAIN,browsertdidticket.m.qq.com
+DOMAIN,thirdwx.qlogo.cn
+DOMAIN,cnlogs.umeng.com
+DOMAIN,resolve.umeng.com
+DOMAIN,cnlogs.umengcloud.com
 # --- DOMAIN-SUFFIX ---
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
