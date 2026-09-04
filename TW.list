@@ -1,0 +1,17 @@
+# TW / Taiwan (14 rules)
+DOMAIN,tw.pool.ntp.org
+
+# --- IP-ASN ---
+IP-ASN,17408,no-resolve
+IP-ASN,17709,no-resolve
+IP-ASN,18182,no-resolve
+IP-ASN,18412,no-resolve
+IP-ASN,24157,no-resolve
+IP-ASN,24158,no-resolve
+IP-ASN,3462,no-resolve
+IP-ASN,4780,no-resolve
+IP-ASN,7481,no-resolve
+IP-ASN,9505,no-resolve
+IP-ASN,9674,no-resolve
+IP-ASN,9919,no-resolve
+IP-ASN,9924,no-resolve
