@@ -1,3 +1,11 @@
+# CHINA (5 rules)
+# --- USER-AGENT ---
+USER-AGENT,%E7%BE%8E%E5%9B%A2*
+USER-AGENT,Hodor*
+# --- DOMAIN ---
+DOMAIN,hdns.ksyun.com
+DOMAIN,m.dianping.com
+DOMAIN,www.dpfile.com
 # --- USER-AGENT ---
 USER-AGENT,%E5%BB%BA%E8%A1%8C%E6%89%8B%E6%9C%BA%E9%93%B6%E8%A1%8C*
 USER-AGENT,*Roewe&jsNativeVersion=*
@@ -9,8 +17,7 @@ USER-AGENT,KWPlayer*
 USER-AGENT,VipCard_iOS*
 USER-AGENT,ijkplayer*
 USER-AGENT,xcdn-0*
-
-# --- DOMAIN ---
+# --- DOMAIN -
 DOMAIN,71wx.baosteel.com
 DOMAIN,95566.bankofchina.com
 DOMAIN,a-rsc.elemecdn.com
