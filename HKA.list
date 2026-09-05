@@ -1,6 +1,3 @@
-# HKA / Hong Kong related
-
-# --- DOMAIN ---
 DOMAIN,2.datadog.pool.ntp.org
 DOMAIN,2048.aaaimgs.com
 DOMAIN,23img.com
@@ -65,8 +62,6 @@ DOMAIN,ys.fp87cat7.icu
 DOMAIN,ys.mhp74fx6.icu
 DOMAIN,ys.waac3a6s.icu
 DOMAIN,yuese99.com
-
-# --- DOMAIN-SUFFIX ---
 DOMAIN-SUFFIX,23img.com
 DOMAIN-SUFFIX,66img.cc
 DOMAIN-SUFFIX,99rego.com
@@ -112,8 +107,6 @@ DOMAIN-SUFFIX,xinlian.eu.org
 DOMAIN-SUFFIX,yohuo.eu.org
 DOMAIN-SUFFIX,yues99.com
 DOMAIN-SUFFIX,yuese99.com
-
-# --- DOMAIN-KEYWORD ---
 DOMAIN-KEYWORD,caoliu
 DOMAIN-KEYWORD,datadoghq
 DOMAIN-KEYWORD,t66y
