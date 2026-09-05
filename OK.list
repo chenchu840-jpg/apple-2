@@ -1,5 +1,3 @@
-# OK (10 rules)
-# --- DOMAIN ---
 DOMAIN,client.relay.crisp.chat
 DOMAIN,gzaegis-1323700071.cos.ap-guangzhou.myqcloud.com
 DOMAIN,image.crisp.chat
@@ -9,6 +7,4 @@ DOMAIN,okoss1.tizlink.net
 DOMAIN,settings.crisp.chat
 DOMAIN,shaegis-1323700071.cos.ap-shanghai.myqcloud.com
 DOMAIN,tuchuang.okokcloud.com
-
-# --- IP-CIDR ---
 IP-CIDR,152.136.157.60/32
