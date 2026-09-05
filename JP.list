@@ -1,9 +1,6 @@
-# --- DOMAIN ---
 DOMAIN,jp.pool.ntp.org
 DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,my
-
-# --- IP-ASN ---
 IP-ASN,10010,no-resolve
 IP-ASN,10013,no-resolve
 IP-ASN,17506,no-resolve
