@@ -1,12 +1,7 @@
-# CHINA (5 rules)
-# --- USER-AGENT ---
 USER-AGENT,%E7%BE%8E%E5%9B%A2*
 USER-AGENT,Hodor*
-# DIRECT (17 rules)
-# --- USER-AGENT ---
 USER-AGENT,%E6%B7%98%E5%AE%9D*
 USER-AGENT,*AppleWebKit/*Mobile/*MicroMessenger/*NetType/*Language/*
-# --- DOMAIN ---
 DOMAIN,static.cotticoffee.cc
 DOMAIN,cdn-product-prod.cotticoffee.com
 DOMAIN,cdn1.dcloud.net.cn
@@ -19,17 +14,13 @@ DOMAIN,loggw.alipay.com
 DOMAIN,custyle.amap.com
 DOMAIN,jsapi.amap.com
 DOMAIN,layout.meituan.net
-# --- DOMAIN-SUFFIX ---
 DOMAIN-SUFFIX,acs.tao.co
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alipay.com.cn
-# --- DOMAIN-WILDCARD ---
 DOMAIN-WILDCARD,jsapi-data*.amap.com
-# --- DOMAIN ---
 DOMAIN,hdns.ksyun.com
 DOMAIN,m.dianping.com
 DOMAIN,www.dpfile.com
-# --- USER-AGENT ---
 USER-AGENT,%E5%BB%BA%E8%A1%8C%E6%89%8B%E6%9C%BA%E9%93%B6%E8%A1%8C*
 USER-AGENT,*Roewe&jsNativeVersion=*
 USER-AGENT,AMapiPhone*
@@ -40,7 +31,6 @@ USER-AGENT,KWPlayer*
 USER-AGENT,VipCard_iOS*
 USER-AGENT,ijkplayer*
 USER-AGENT,xcdn-0*
-# --- DOMAIN -
 DOMAIN,71wx.baosteel.com
 DOMAIN,95566.bankofchina.com
 DOMAIN,a-rsc.elemecdn.com
@@ -735,7 +725,6 @@ DOMAIN,thirdwx.qlogo.cn
 DOMAIN,cnlogs.umeng.com
 DOMAIN,resolve.umeng.com
 DOMAIN,cnlogs.umengcloud.com
-# --- DOMAIN-SUFFIX ---
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,10jqka.com.cn
@@ -1155,8 +1144,6 @@ DOMAIN-KEYWORD,hexin
 DOMAIN-KEYWORD,smp-device
 DOMAIN-KEYWORD,thsi
 DOMAIN-KEYWORD,vam-hk.cloud1
-
-# --- IP-CIDR ---
 IP-CIDR,10.0.0.0/8
 IP-CIDR,103.129.255.183/32
 IP-CIDR,127.0.0.0/8
@@ -1164,8 +1151,6 @@ IP-CIDR,172.16.0.0/12
 IP-CIDR,192.168.0.0/16
 IP-CIDR,224.0.0.0/4
 IP-CIDR,224.32.32.214/4
-
-# --- IP-ASN ---
 IP-ASN,10099
 IP-ASN,132203
 IP-ASN,134238
