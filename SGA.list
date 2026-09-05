@@ -1,6 +1,3 @@
-# SGA / Singapore related
-
-# --- DOMAIN ---
 DOMAIN,a.humanityrelief.help
 DOMAIN,api.epochtimes.com
 DOMAIN,api.onedrive.com
@@ -43,8 +40,6 @@ DOMAIN,updates.tdesktop.com
 DOMAIN,web.telegram.org
 DOMAIN,westus2-2.in.applicationinsights.azure.com
 DOMAIN,www.epochtimes.com
-
-# --- DOMAIN-SUFFIX ---
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,browserleaks.com
@@ -77,8 +72,6 @@ DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,whrq.net
-
-# --- IP-CIDR ---
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,185.76.151.0/24,no-resolve
