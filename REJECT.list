@@ -66,7 +66,35 @@ DOMAIN,c-nfa.jd.com
 DOMAIN,ads-union.jd.com
 DOMAIN,ads.union.jd.com
 DOMAIN,du.jd.com
+# ==================================================
+# 酷我音乐 Kuwo 去广告
+# ==================================================
 
+DOMAIN,ad.tencentmusic.com
+DOMAIN,adstats.tencentmusic.com
+DOMAIN,adserviceretry.kugou.com
+DOMAIN,adserviceretry.kugou.net
+DOMAIN,ads.service.kugou.com
+DOMAIN,adsfile.bssdlbig.kugou.com
+DOMAIN,adsmind.gdtimg.com
+DOMAIN,adsmind.ugdtimg.com
+DOMAIN,adsview.qq.com
+DOMAIN,adfilter.imtt.qq.com
+DOMAIN,tmeadcomm.y.qq.com
+DOMAIN,ad.tencentmusic.com
+DOMAIN,adstats.tencentmusic.com
+DOMAIN,adserviceretry.kugou.com
+DOMAIN,adserviceretry.kugou.net
+DOMAIN,ads.service.kugou.com
+DOMAIN,adsfile.bssdlbig.kugou.com
+
+# 酷我统计/营销
+DOMAIN,log.kuwo.cn
+DOMAIN,log1.kuwo.cn
+DOMAIN,wa.kuwo.cn
+DOMAIN,webstat.kuwo.cn
+DOMAIN,deliver.kuwo.cn
+DOMAIN,g.koowo.com
 # --- 美团 / 大众点评 ---
 DOMAIN,flowplus.meituan.net
 DOMAIN,s3plus.meituan.net
