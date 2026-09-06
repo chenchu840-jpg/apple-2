@@ -1,0 +1,150 @@
+# ==================================================
+# adblock.list
+# Shadowrocket 去广告规则
+# DOMAIN 精准优先 / DOMAIN-SUFFIX 兜底
+# ==================================================
+
+# ==================================================
+# DOMAIN 精准规则
+# ==================================================
+
+# --- Google / YouTube / Gmail ---
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,securepubads.g.doubleclick.net
+DOMAIN,cm.g.doubleclick.net
+DOMAIN,pagead2.googlesyndication.com
+DOMAIN,tpc.googlesyndication.com
+DOMAIN,adservice.google.com
+DOMAIN,adservice.google.com.hk
+DOMAIN,ads.google.com
+DOMAIN,www.googleadservices.com
+DOMAIN,stats.g.doubleclick.net
+
+# --- 微信 / QQ / 腾讯 ---
+DOMAIN,mi.gdt.qq.com
+DOMAIN,d.gdt.qq.com
+DOMAIN,i.gdt.qq.com
+DOMAIN,q.i.gdt.qq.com
+DOMAIN,rm.gdt.qq.com
+DOMAIN,canvas.gdt.qq.com
+DOMAIN,w.gdt.qq.com
+DOMAIN,c2.l.qq.com
+DOMAIN,cb.l.qq.com
+DOMAIN,hm.l.qq.com
+DOMAIN,l2.l.qq.com
+DOMAIN,ls.l.qq.com
+DOMAIN,p2.l.qq.com
+DOMAIN,ad.qun.qq.com
+DOMAIN,adsense.html5.qq.com
+DOMAIN,adsfile.qq.com
+DOMAIN,adsolution.imtt.qq.com
+DOMAIN,mqqad.html5.qq.com
+DOMAIN,mqqad.cs0309.html5.qq.com
+DOMAIN,pgdt.gtimg.cn
+DOMAIN,news.ssp.qq.com
+DOMAIN,pingma.qq.com
+DOMAIN,pingtcss.qq.com
+
+# --- 淘宝 / 天猫 / 淘宝闪购 / 支付宝 / AlipayHK ---
+DOMAIN,m.simaba.taobao.com
+DOMAIN,adashx.m.taobao.com
+DOMAIN,adashbc.ut.taobao.com
+DOMAIN,adash-c.ut.taobao.com
+DOMAIN,adash.m.taobao.com
+DOMAIN,adash.man.aliyuncs.com
+DOMAIN,atanx.alicdn.com
+DOMAIN,click.tanx.com
+DOMAIN,ope.tanx.com
+DOMAIN,p.tanx.com
+DOMAIN,ef-dongfeng.tanx.com
+DOMAIN,strip.taobaocdn.com
+
+# --- 京东 ---
+DOMAIN,x.jd.com
+DOMAIN,bdsp-x.jd.com
+DOMAIN,c-nfa.jd.com
+DOMAIN,ads-union.jd.com
+DOMAIN,ads.union.jd.com
+DOMAIN,du.jd.com
+
+# --- 美团 / 大众点评 ---
+DOMAIN,flowplus.meituan.net
+DOMAIN,s3plus.meituan.net
+DOMAIN,ad.maoyan.com
+DOMAIN,adapi.meituan.com
+
+# --- 携程 ---
+DOMAIN,ad.ctrip.com
+DOMAIN,ads.ctrip.com
+DOMAIN,ubt.ctrip.com
+
+# --- WPS ---
+DOMAIN,adx-api.wps.cn
+DOMAIN,ad-api.wps.cn
+DOMAIN,ads.wps.cn
+DOMAIN,ic.wps.cn
+DOMAIN,imgad0.3conline.com
+
+# --- 高德地图 ---
+DOMAIN,optimus-ads.amap.com
+DOMAIN,ads.amap.com
+
+# --- 中国电信 ---
+DOMAIN,ad.189.cn
+DOMAIN,ads.189.cn
+DOMAIN,adservice.189.cn
+DOMAIN,marketing.189.cn
+
+# --- 同花顺 ---
+DOMAIN,adm.10jqka.com.cn
+DOMAIN,ad.10jqka.com.cn
+DOMAIN,ads.10jqka.com.cn
+DOMAIN,stat.10jqka.com.cn
+
+# --- 山姆 / Walmart ---
+DOMAIN,ads.walmart.com
+DOMAIN,adservice.walmart.com
+DOMAIN,analytics.walmart.com
+
+
+# ==================================================
+# DOMAIN-SUFFIX 广告平台兜底
+# ==================================================
+
+# --- Google Ads ---
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,doubleclick.net
+
+# --- 腾讯广告 ---
+DOMAIN-SUFFIX,gdt.qq.com
+
+# --- 阿里 / 淘宝 / 天猫 / 支付宝 ---
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,mmstat.com
+
+# --- 通用广告 SDK / 广告平台 ---
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,appads.com
+DOMAIN-SUFFIX,chartboost.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,smartadserver.com
+DOMAIN-SUFFIX,tapjoyads.com
+DOMAIN-SUFFIX,ipinyou.com
+DOMAIN-SUFFIX,mediav.com
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,oadz.com
+DOMAIN-SUFFIX,reachmax.cn
+DOMAIN-SUFFIX,uyunad.com
+DOMAIN-SUFFIX,youmi.net
+DOMAIN-SUFFIX,guomob.com
+DOMAIN-SUFFIX,wooboo.com.cn
+DOMAIN-SUFFIX,waps.cn
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umeng.net
+DOMAIN-SUFFIX,umeng.co
+DOMAIN-SUFFIX,umtrack.com
+DOMAIN-SUFFIX,allyes.com
+DOMAIN-SUFFIX,biddingx.com
+DOMAIN-SUFFIX,quantserve.com
+DOMAIN-SUFFIX,serving-sys.com
