@@ -6,6 +6,7 @@
 
 ```
 https://raw.githubusercontent.com/chenchu840-jpg/apple-2/main/DIRECT.list
+https://raw.githubusercontent.com/chenchu840-jpg/apple-2/main/REJECT.list
 https://raw.githubusercontent.com/chenchu840-jpg/apple-2/main/HK.list
 https://raw.githubusercontent.com/chenchu840-jpg/apple-2/main/HKA.list
 https://raw.githubusercontent.com/chenchu840-jpg/apple-2/main/JP.list
@@ -23,6 +24,7 @@ https://raw.githubusercontent.com/chenchu840-jpg/apple-2/main/proxy.list
 | 地区 | 规则文件 | Raw 链接 |
 |------|--------|---------|
 | 🌐 直连 | DIRECT.list | https://raw.githubusercontent.com/chenchu840-jpg/apple-2/main/DIRECT.list |
+| 🚫 拒绝 | REJECT.list | https://raw.githubusercontent.com/chenchu840-jpg/apple-2/main/REJECT.list |
 | 🇭🇰 香港 | HK.list | https://raw.githubusercontent.com/chenchu840-jpg/apple-2/main/HK.list |
 | 🇭🇰 香港增强 | HKA.list | https://raw.githubusercontent.com/chenchu840-jpg/apple-2/main/HKA.list |
 | 🇯🇵 日本 | JP.list | https://raw.githubusercontent.com/chenchu840-jpg/apple-2/main/JP.list |
