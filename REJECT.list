@@ -1,28 +1,3 @@
-# ==================================================
-# adblock.list
-# Shadowrocket 去广告规则
-# DOMAIN 精准优先 / DOMAIN-SUFFIX 兜底
-# ==================================================
-
-# ==================================================
-# DOMAIN 精准规则
-# ==================================================
-
-# --- Google / YouTube / Gmail ---
-DOMAIN,googleads.g.doubleclick.net
-DOMAIN,securepubads.g.doubleclick.net
-DOMAIN,cm.g.doubleclick.net
-DOMAIN,pagead2.googlesyndication.com
-DOMAIN,tpc.googlesyndication.com
-DOMAIN,adservice.google.com
-DOMAIN,adservice.google.com.hk
-DOMAIN,ads.google.com
-DOMAIN,www.googleadservices.com
-DOMAIN,stats.g.doubleclick.net
-# ==================================================
-# META - Facebook / Instagram / Threads
-# ==================================================
-
 DOMAIN,an.facebook.com
 DOMAIN,ads.facebook.com
 DOMAIN,ads.facebook.net
