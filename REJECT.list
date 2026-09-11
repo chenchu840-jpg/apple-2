@@ -139,17 +139,6 @@ DOMAIN,stat.10jqka.com.cn
 # --- 山姆 / Walmart ---
 DOMAIN,ads.walmart.com
 DOMAIN,adservice.walmart.com
-DOMAIN,analytics.walmart.com
-
-
-# ==================================================
-# DOMAIN-SUFFIX 广告平台兜底
-# ==================================================
-
-# --- Google Ads ---
-DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,doubleclick.net
 
 # --- 腾讯广告 ---
 DOMAIN-SUFFIX,gdt.qq.com
