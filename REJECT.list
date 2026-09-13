@@ -1,3 +1,42 @@
+# YouTubeREJECT.list
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,securepubads.g.doubleclick.net
+DOMAIN,ad.doubleclick.net
+DOMAIN,stats.g.doubleclick.net
+DOMAIN,cm.g.doubleclick.net
+DOMAIN,pubads.g.doubleclick.net
+DOMAIN,static.doubleclick.net
+DOMAIN,s0.doubleclick.net
+DOMAIN,s1.doubleclick.net
+DOMAIN,www.doubleclick.net
+DOMAIN,pagead2.googlesyndication.com
+DOMAIN,tpc.googlesyndication.com
+DOMAIN,www.googlesyndication.com
+DOMAIN,www.googleadservices.com
+DOMAIN,adservice.google.com
+DOMAIN,ads.google.com
+# ---------- Google 广告后缀 ----------
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,admob.com
+# ---------- YouTube Ads / Tracking ----------
+DOMAIN,ads.youtube.com
+DOMAIN,ad.youtube.com
+# ---------- Measurement / Tracking ----------
+DOMAIN,www.google-analytics.com
+DOMAIN,ssl.google-analytics.com
+DOMAIN,analytics.google.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googletagservices.com
+# ---------- 广告测量 ----------
+DOMAIN,partner.googleadservices.com
+DOMAIN,click.googleadservices.com
+DOMAIN-SUFFIX,2mdn.net
+# ==========================================
+
 DOMAIN,an.facebook.com
 DOMAIN,ads.facebook.com
 DOMAIN,ads.facebook.net
