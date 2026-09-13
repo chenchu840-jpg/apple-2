@@ -1,40 +1,128 @@
+# ==========================================
 # YouTubeREJECT.list
-DOMAIN,googleads.g.doubleclick.net
-DOMAIN,securepubads.g.doubleclick.net
+# YouTube / Google Ads & Tracking
+# ==========================================
+# ---------- YouTube Ads ----------
+DOMAIN,ad.youtube.com
+DOMAIN,ads.youtube.com
+# ---------- DoubleClick ----------
 DOMAIN,ad.doubleclick.net
-DOMAIN,stats.g.doubleclick.net
+DOMAIN,ads.doubleclick.net
+DOMAIN,ad-g.doubleclick.net
+DOMAIN,ad.mo.doubleclick.net
+DOMAIN,adclick.g.doubleclick.net
 DOMAIN,cm.g.doubleclick.net
+DOMAIN,fls.doubleclick.net
+DOMAIN,g.doubleclick.net
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,pagead.l.doubleclick.net
+DOMAIN,partnerad.l.doubleclick.net
 DOMAIN,pubads.g.doubleclick.net
+DOMAIN,securepubads.g.doubleclick.net
 DOMAIN,static.doubleclick.net
+DOMAIN,stats.g.doubleclick.net
 DOMAIN,s0.doubleclick.net
 DOMAIN,s1.doubleclick.net
 DOMAIN,www.doubleclick.net
-DOMAIN,pagead2.googlesyndication.com
-DOMAIN,tpc.googlesyndication.com
-DOMAIN,www.googlesyndication.com
-DOMAIN,www.googleadservices.com
-DOMAIN,adservice.google.com
-DOMAIN,ads.google.com
-# ---------- Google 广告后缀 ----------
+
 DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,doubleclick.com
+DOMAIN-SUFFIX,doubleclick.cn
+DOMAIN-SUFFIX,doubleclick-cn.net
+# ---------- Google Syndication ----------
+DOMAIN,afs.googlesyndication.com
+DOMAIN,ade.googlesyndication.com
+DOMAIN,c.googlesyndication.com
+DOMAIN,domains.googlesyndication.com
+DOMAIN,pagead.googlesyndication.com
+DOMAIN,pagead1.googlesyndication.com
+DOMAIN,pagead2.googlesyndication.com
+DOMAIN,safeframe.googlesyndication.com
+DOMAIN,tpc.googlesyndication.com
+DOMAIN,video-ad-stats.googlesyndication.com
+DOMAIN,www.googlesyndication.com
+
 DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,adservice.google.com
-DOMAIN-SUFFIX,admob.com
-# ---------- YouTube Ads / Tracking ----------
-DOMAIN,ads.youtube.com
-DOMAIN,ad.youtube.com
-# ---------- Measurement / Tracking ----------
-DOMAIN,www.google-analytics.com
-DOMAIN,ssl.google-analytics.com
-DOMAIN,analytics.google.com
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,googletagservices.com
-# ---------- 广告测量 ----------
+DOMAIN-SUFFIX,googlesyndication-cn.com
+# ---------- Google Ad Services ----------
+DOMAIN,www.googleadservices.com
 DOMAIN,partner.googleadservices.com
 DOMAIN,click.googleadservices.com
+DOMAIN,afs.googleadservices.com
+
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleadservices-cn.com
+# ---------- Google Ads ----------
+DOMAIN,ads.google.com
+DOMAIN,adservice.google.com
+DOMAIN,adservices.google.com
+DOMAIN,mobileads.google.com
+DOMAIN,mail-ads.google.com
+DOMAIN,pagead.l.google.com
+DOMAIN,partnerad.l.google.com
+
+DOMAIN-SUFFIX,googleads.com
+DOMAIN-SUFFIX,googleads-cn.com
+DOMAIN-SUFFIX,googleadsserving.cn
+DOMAIN-SUFFIX,googleadapis.com
+# ---------- AdSense ----------
+DOMAIN-SUFFIX,adsense.com
+DOMAIN-SUFFIX,adsensecustomsearchads.com
+DOMAIN-SUFFIX,adsenseformobileapps.com
+# ---------- AdMob ----------
+DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,admob-cn.com
+# ---------- 2MDN ----------
+DOMAIN,s0.2mdn.net
+DOMAIN,s1.2mdn.net
+DOMAIN,s2.2mdn.net
+DOMAIN,static.2mdn.net
+DOMAIN,gcdn.2mdn.net
+
 DOMAIN-SUFFIX,2mdn.net
+DOMAIN-SUFFIX,2mdn-cn.net
+DOMAIN-SUFFIX,2mdnsys.com
+# ---------- Google Analytics / Measurement ----------
+DOMAIN,analytics.google.com
+DOMAIN,ssl.google-analytics.com
+DOMAIN,www.google-analytics.com
+DOMAIN,analytics-alv.google.com
+
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,google-analytics-cn.com
+DOMAIN-SUFFIX,googleanalytics.com
+DOMAIN-SUFFIX,urchin.com
+# ---------- App Measurement ----------
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,app-measurement-cn.com
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,app-analytics-services-att.com
+# ---------- Google Tag ----------
+DOMAIN,www.googletagmanager.com
+DOMAIN,www.googletagservices.com
+
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googletagmanager-cn.com
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,googletagservices-cn.com
+# ---------- Other Google Ad Infrastructure ----------
+DOMAIN-SUFFIX,adtrafficquality.google
+DOMAIN-SUFFIX,googletraveladservices.com
+DOMAIN-SUFFIX,googletraveladservices-cn.com
+DOMAIN-SUFFIX,googlevads-cn.com
+DOMAIN-SUFFIX,fcmatch.google.com
+DOMAIN-SUFFIX,googleoptimize.com
+DOMAIN-SUFFIX,googleoptimize-cn.com
+DOMAIN-SUFFIX,adwords.com
+DOMAIN-SUFFIX,adwordsexpress.com
+DOMAIN-SUFFIX,adwords-community.com
+DOMAIN-SUFFIX,advertisercommunity.com
+DOMAIN-SUFFIX,advertiserscommunity.com
+# ---------- Third-party ad verification ----------
+DOMAIN-SUFFIX,adsafeprotected.com
+DOMAIN-SUFFIX,moatads.com
+DOMAIN-SUFFIX,innovid.com
+DOMAIN-SUFFIX,fwmrm.net
 # ==========================================
 
 DOMAIN,an.facebook.com
