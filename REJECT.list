@@ -24,7 +24,6 @@ DOMAIN,stats.g.doubleclick.net
 DOMAIN,s0.doubleclick.net
 DOMAIN,s1.doubleclick.net
 DOMAIN,www.doubleclick.net
-
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,doubleclick.cn
@@ -41,7 +40,6 @@ DOMAIN,safeframe.googlesyndication.com
 DOMAIN,tpc.googlesyndication.com
 DOMAIN,video-ad-stats.googlesyndication.com
 DOMAIN,www.googlesyndication.com
-
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googlesyndication-cn.com
 # ---------- Google Ad Services ----------
@@ -49,7 +47,6 @@ DOMAIN,www.googleadservices.com
 DOMAIN,partner.googleadservices.com
 DOMAIN,click.googleadservices.com
 DOMAIN,afs.googleadservices.com
-
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleadservices-cn.com
 # ---------- Google Ads ----------
@@ -60,7 +57,6 @@ DOMAIN,mobileads.google.com
 DOMAIN,mail-ads.google.com
 DOMAIN,pagead.l.google.com
 DOMAIN,partnerad.l.google.com
-
 DOMAIN-SUFFIX,googleads.com
 DOMAIN-SUFFIX,googleads-cn.com
 DOMAIN-SUFFIX,googleadsserving.cn
@@ -78,7 +74,6 @@ DOMAIN,s1.2mdn.net
 DOMAIN,s2.2mdn.net
 DOMAIN,static.2mdn.net
 DOMAIN,gcdn.2mdn.net
-
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdnsys.com
@@ -87,7 +82,6 @@ DOMAIN,analytics.google.com
 DOMAIN,ssl.google-analytics.com
 DOMAIN,www.google-analytics.com
 DOMAIN,analytics-alv.google.com
-
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,google-analytics-cn.com
 DOMAIN-SUFFIX,googleanalytics.com
@@ -100,7 +94,6 @@ DOMAIN-SUFFIX,app-analytics-services-att.com
 # ---------- Google Tag ----------
 DOMAIN,www.googletagmanager.com
 DOMAIN,www.googletagservices.com
-
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagmanager-cn.com
 DOMAIN-SUFFIX,googletagservices.com
@@ -124,22 +117,17 @@ DOMAIN-SUFFIX,moatads.com
 DOMAIN-SUFFIX,innovid.com
 DOMAIN-SUFFIX,fwmrm.net
 # ==========================================
-
 DOMAIN,an.facebook.com
 DOMAIN,ads.facebook.com
 DOMAIN,ads.facebook.net
 DOMAIN,adtools.facebook.com
 DOMAIN,analytics.facebook.com
 DOMAIN,pixel.facebook.com
-
 # Meta 广告/统计兜底
 DOMAIN-SUFFIX,facebook-pixel.com
-
-
 # ==================================================
 # TikTok - Ads / Tracking
 # ==================================================
-
 DOMAIN,ads.tiktok.com
 DOMAIN,ads-sg.tiktok.com
 DOMAIN,ads-useast2a.tiktok.com
@@ -178,7 +166,6 @@ DOMAIN,pgdt.gtimg.cn
 DOMAIN,news.ssp.qq.com
 DOMAIN,pingma.qq.com
 DOMAIN,pingtcss.qq.com
-
 # --- 淘宝 / 天猫 / 淘宝闪购 / 支付宝 / AlipayHK ---
 DOMAIN,m.simaba.taobao.com
 DOMAIN,adashx.m.taobao.com
@@ -192,7 +179,6 @@ DOMAIN,ope.tanx.com
 DOMAIN,p.tanx.com
 DOMAIN,ef-dongfeng.tanx.com
 DOMAIN,strip.taobaocdn.com
-
 # --- 京东 ---
 DOMAIN,x.jd.com
 DOMAIN,bdsp-x.jd.com
@@ -203,7 +189,6 @@ DOMAIN,du.jd.com
 # ==================================================
 # 酷我音乐 Kuwo 去广告
 # ==================================================
-
 DOMAIN,ad.tencentmusic.com
 DOMAIN,adstats.tencentmusic.com
 DOMAIN,adserviceretry.kugou.com
@@ -221,7 +206,6 @@ DOMAIN,adserviceretry.kugou.com
 DOMAIN,adserviceretry.kugou.net
 DOMAIN,ads.service.kugou.com
 DOMAIN,adsfile.bssdlbig.kugou.com
-
 # 酷我统计/营销
 DOMAIN,log.kuwo.cn
 DOMAIN,log1.kuwo.cn
